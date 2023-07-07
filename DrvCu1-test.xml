@@ -1,0 +1,13 @@
+<EvsConfig>
+  <Line Link="Com11" Baud="57600">
+    <Su01 Number="8" Id="1">
+     <User Id="1" PesonalCode="1" BcpUser="" Card="0fffff" Cells="010101 010201 010301"/>
+     <User Id="2" PesonalCode="2" BcpUser="" Card="0fffff" Cells="010101 010201 010301"/>
+
+     <Cell Location="0101" BcpZone="1 2 3" Comment=""/>
+     <Cell Location="0102" BcpZone="1 2 5" Comment=""/>
+    </Su01>
+  </Line>  
+</EvsConfig>
+
+
